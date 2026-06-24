@@ -1,0 +1,11 @@
+CustomerID,Tenure,MonthlyCharges,CallDropRate,Complaints,RechargeAmount,PlanType,Churn
+C001,5,350,8,5,199,Prepaid,Yes
+C002,24,599,2,1,599,Postpaid,No
+C003,8,399,7,4,299,Prepaid,Yes
+C004,36,799,1,0,799,Postpaid,No
+C005,12,499,5,3,399,Prepaid,Yes
+C006,18,699,2,1,699,Postpaid,No
+C007,4,299,9,6,149,Prepaid,Yes
+C008,30,899,1,0,899,Postpaid,No
+C009,10,450,6,4,299,Prepaid,Yes
+C010,48,999,1,0,999,Postpaid,No

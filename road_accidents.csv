@@ -1,0 +1,11 @@
+Date,Time,Weather,Road_Type,Severity,Casualties,Vehicles_Involved
+2023-01-05,08:30,Clear,Highway,Minor,1,2
+2023-01-06,19:15,Rainy,City Road,Serious,3,3
+2023-01-07,21:00,Fog,Rural Road,Fatal,5,2
+2023-01-08,10:45,Clear,City Road,Minor,0,2
+2023-02-10,18:20,Rainy,Highway,Serious,2,4
+2023-03-12,22:10,Fog,Rural Road,Fatal,4,3
+2023-04-15,09:00,Clear,City Road,Minor,1,2
+2023-05-18,20:30,Rainy,Highway,Serious,3,3
+2023-06-20,23:15,Fog,Rural Road,Fatal,6,2
+2023-07-22,11:30,Clear,City Road,Minor,0,1

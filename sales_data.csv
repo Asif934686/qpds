@@ -1,0 +1,6 @@
+Region,Manager,Salesman,Item,Units,Sale_Amount
+East,Ram,Amit,Pen,100,5000
+West,Ravi,John,Pencil,120,3600
+East,Ram,Sam,Pen,150,7500
+North,Kumar,David,Book,80,8000
+South,Raj,Arun,Book,90,9000
